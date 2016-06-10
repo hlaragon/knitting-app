@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Recount</string>
+    <string name="action_settings">Settings</string>
+    <string name="rows_title">Rows completed in this section</string>
+    <string name="row_nums">16</string>
+    <string name="add">+</string>
+    <string name="minus">-</string>
+    <string name="done">next</string>
+    <string name="title">Recount \n</string>
+    <string name="newProject">New Project</string>
+    <string name="viewProject">View Projects</string>
+    <string name="insertName">Project Name</string>
+    <string name="paragraph"> [Time Stamp] Repeat: 1, Rows: 4 \n [Time Stamp] Repeat: 2, Rows: 6 \n
+    [Time Stamp] Repeat: 3, Rows: 4 \n [Time Stamp] Repeat: 4, Rows: 10 \n</string>
+    <string name="title_activity_add_project">AddProjectActivity</string>
+    <string name="title_activity_history">HistoryActivity</string>
+    <string name="title_activity_add_new_project">AddNewProjectActivity</string>
+    <string name="title_activity_view_all">ViewAllActivity</string>
+</resources>
